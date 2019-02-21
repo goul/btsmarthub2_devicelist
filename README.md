@@ -19,6 +19,6 @@ print(devicelist)
 ```
 
 ### Acknowledgments
-This code is based on that created by jxwolstenholme project for the earlier version of the hub https://github.com/jxwolstenholme/btsmarthub_devicelist
+This code is based on that created by jxwolstenholme project for the earlier version of the hub https://github.com/jxwolstenholme/btsmarthub_devicelist - intention is to merge this into that project to have single way of doing the id.
 
 
